@@ -1,5 +1,7 @@
-# pipeline
-Final project for Fundamental Experiment of Digital Logic and Processor
+Course pojects EE, THU, 2021 summer
 
-# 仅供学习参考，请勿用于课程作业
-# 如需用于任何其他工作中，请按照彼工作之要求引用或注明
+Course: Fundamental Experiment of Digital Logic and Processor
+
+Project: Five-Stage Pipelined MIPS-32 Processor Design and Implementation
+
+Language: Verilog
